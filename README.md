@@ -38,21 +38,21 @@
 ---
 
 ## ✨ Projects I'm Proud Of
-- **[Project Name 1](#)**: Short description of what it does.  
-- **[Project Name 2](#)**: Highlight unique features or technologies used.  
+- **[Telegram Bot](#)**: Short description of what it does.  
+- **[Website Dev](#)**: Highlight unique features or technologies used.  
 
 ---
 
 ## 📫 Connect With Me
-- 🐦 **Telegram**: [999]()  
-- 💼 **LinkedIn**: [999]()  
-- 🌐 **Portfolio**: [999]()
+- 🐦 **Telegram**: [999](https://t.me/myanmarbot_music)  
+- 💼 **LinkedIn**: [999](https://t.me/myanmar_music_bot2027)  
+- 🌐 **Portfolio**: [999](https://t.me/Hanthar999)
 
 ---
 
 ## 🛠️ GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-matrix9&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-matrix9&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=core-999&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=core-999&layout=compact&theme=radical)
 
 ---
 
