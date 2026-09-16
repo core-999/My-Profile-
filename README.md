@@ -1,4 +1,4 @@
-  [![99𝟵](https://github-stats-alpha.vercel.app/api?username=core-999 "99𝟵")](https://github-stats-alpha.vercel.app/api?username=core999 "99𝟵")
+  [![99𝟵](https://github-stats-alpha.vercel.app/api?username=core-999 "99𝟵")](https://github-stats-alpha.vercel.app/api?username=core-999 "99𝟵")
 
 
   # 👋 Hi there! I'm **999**
