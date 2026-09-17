@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=WELCOME%20TO%20MY%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 [![Visitors](https://komarev.com/ghpvc/?username=core-999&style=for-the-badge&color=blueviolet&label=PLAYER+VISITS)](https://github.com/core-999/core-999)
 [![GitHub Streak](https://streak-stats.demolab.com?user=core-999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
