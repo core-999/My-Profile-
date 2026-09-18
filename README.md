@@ -1,70 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+# 🚀 Hello World, I'm Saurav Singh!
+### Full Stack Developer | Open Source Enthusiast | Tech Explorer
 
-[![Visitors](https://komarev.com/ghpvc/?username=core-999&style=for-the-badge&color=blueviolet&label=PLAYER+VISITS)](https://github.com/core-999/core-999)
-[![GitHub Streak](https://streak-stats.demolab.com?user=core-999&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmY5ZGFkYmYmc2lkPTEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="600">
+
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Loves+React+and+Node.js;Always+Learning+Something+New;Available+for+Freelance)
 
 </div>
 
 ---
 
-### 🕹️ PLAYER STATUS: `CORE-999`
-> **Class:** Full-Stack Developer | **Level:** 99 | **Current Quest:** Mastering DevOps & Cloud Architecture 🚀
+### 👨‍💻 About Me
 
-[■■■■■■■■■■■■■□□□] 85% EXP to Next Level
-
----
-
-## ⚡ TECH LOADOUT (SKILLS)
-
-| Category | Tech Arsenal |
-| :--- | :--- |
-| **Front-End** | `HTML5` `CSS3` `JavaScript (ES6+)` `React.js` `Next.js` `TailwindCSS` |
-| **Back-End** | `Node.js` `Express.js` `Python` `PostgreSQL` `MongoDB` |
-| **Tools & Cloud** | `Git` `Docker` `Firebase` `AWS` `Linux VPS` `Coolify` |
+- 📧 **Tg:** https://t.me/Number_Spy
+- 🏢 I’m currently looking for exciting opportunities in **Full Stack Development**.
+- 🧠 I’m currently learning **Advanced System Design** and **Cloud Infrastructure**.
+- 💬 Ask me about **JavaScript, React, or Python**.
+- ⚡ Fun fact: I believe a good cup of coffee can fix any bug (almost).
 
 ---
 
-## 🗺️ ACTIVE QUESTS & LEARNING
-- 🖥️ **Quest 01:** Leveling up skills in **TypeScript** and **GraphQL**.
-- 🌌 **Quest 02:** Deep diving into **DevOps**, Docker container orchestration, and automated cloud deployments.
-
----
-
-## 🏆 ACHIEVEMENTS (PROJECTS)
-- **🤖 Telegram Ecosystem Bot:** Developed custom automated bots & streaming architectures using Python.
-- **🌐 Web Apps & Mini Apps:** Built interactive web platforms, API key management systems, and dynamic frontends.
-
----
-
-## 🕹️ STATS & ACHIEVEMENTS BOARD
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=core-999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=core-999&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,py,java,git,github,vscode,docker,aws,postman,tailwind,figma&perline=9" />
+  </a>
 </p>
 
 ---
 
-## 📡 SAVE POINT (CONNECT WITH ME)
+### 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=core-999&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsingh2111&layout=compact&theme=tokyonight" height="180em" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=core-999&theme=tokyonight" />
+</div>
+
+---
+
+### 🐍 The GitHub Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/core-999/core-999/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/core-999/core-999/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/core-999/core-999/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 🤝 Connect with Me
 
 <div align="center">
 
-<a href="https://t.me/myanmarbot_music" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/myanmar_music_bot2027" target="_blank">
-  <img src="https://img.shields.io/badge/Channel-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
-</a>
-<a href="https://t.me/Hanthar999" target="_blank">
-  <img src="https://img.shields.io/badge/Direct_Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/core-999)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6000sauravsingh3110@gmail.com)
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11,6&height=80&section=footer" width="100%" />
+  🔥 Show some love by starring my repositories! 🔥
 </div>
