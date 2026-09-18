@@ -72,5 +72,5 @@
 ---
 
 <div align="center">
-  🔥 Show some love by starring my repositories! 🔥
+  🔥 Show some love by starring my repositories!🇲🇲 HANTHAR 🇲🇲 🔥
 </div>
